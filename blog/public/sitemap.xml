@@ -3,67 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.vinamramattoo.com/post/hugoisforlovers/</loc>
+    <loc>https://www.vinamramattoo.com/blog/public/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vinamramattoo.com/about/desc/</loc>
+    <loc>https://www.vinamramattoo.com/blog/public/about/desc/</loc>
   </url>
   
   <url>
-    <loc>https://www.vinamramattoo.com/about/</loc>
+    <loc>https://www.vinamramattoo.com/blog/public/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vinamramattoo.com/tags/blog/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.vinamramattoo.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.vinamramattoo.com/tags/development/</loc>
+    <loc>https://www.vinamramattoo.com/blog/public/tags/blog/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vinamramattoo.com/categories/development/</loc>
+    <loc>https://www.vinamramattoo.com/blog/public/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vinamramattoo.com/blog/public/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vinamramattoo.com/tags/hugo/</loc>
+    <loc>https://www.vinamramattoo.com/blog/public/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vinamramattoo.com/post/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.vinamramattoo.com/tags/</loc>
+    <loc>https://www.vinamramattoo.com/blog/public/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vinamramattoo.com/tags/test/</loc>
+    <loc>https://www.vinamramattoo.com/blog/public/post/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vinamramattoo.com/blog/public/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vinamramattoo.com/</loc>
+    <loc>https://www.vinamramattoo.com/blog/public/tags/test/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vinamramattoo.com/blog/public/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
