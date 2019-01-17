@@ -1,0 +1,32 @@
+baseurl = "/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Vinamra's Blog"
+theme = "dream"
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  author = "Vinamra Mattoo"
+  motto = "Create Awesomeness"
+  # description = ""
+  # avatar = ""
+
+  # email = ""
+  # github = ""
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
+
+  siteStartYear = 2018
+  aboutHeader = "AboutMe"
+
+  paginate = 4
+
+  # favicon = "/favicon.ico"
